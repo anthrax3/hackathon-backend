@@ -1,0 +1,9 @@
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Debug\netcoreapp1.1\HackathonBackend.deps.json
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Debug\netcoreapp1.1\HackathonBackend.runtimeconfig.json
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Debug\netcoreapp1.1\HackathonBackend.runtimeconfig.dev.json
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Debug\netcoreapp1.1\HackathonBackend.dll
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Debug\netcoreapp1.1\HackathonBackend.pdb
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Debug\netcoreapp1.1\HackathonBackend.AssemblyInfo.cs
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Debug\netcoreapp1.1\HackathonBackend.dll
+c:\users\phmat\onedrive\documents\visual studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Debug\netcoreapp1.1\HackathonBackend.pdb
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Debug\netcoreapp1.1\HackathonBackend.csprojResolveAssemblyReference.cache

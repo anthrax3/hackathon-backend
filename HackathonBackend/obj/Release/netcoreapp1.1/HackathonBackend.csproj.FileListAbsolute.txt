@@ -1,0 +1,9 @@
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Release\netcoreapp1.1\HackathonBackend.deps.json
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Release\netcoreapp1.1\HackathonBackend.runtimeconfig.json
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Release\netcoreapp1.1\HackathonBackend.runtimeconfig.dev.json
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Release\netcoreapp1.1\HackathonBackend.dll
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\bin\Release\netcoreapp1.1\HackathonBackend.pdb
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Release\netcoreapp1.1\HackathonBackend.AssemblyInfo.cs
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Release\netcoreapp1.1\HackathonBackend.dll
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Release\netcoreapp1.1\HackathonBackend.pdb
+C:\Users\phmat\OneDrive\Documents\Visual Studio 2017\Projects\HackathonBackend\HackathonBackend\obj\Release\netcoreapp1.1\HackathonBackend.csprojResolveAssemblyReference.cache
